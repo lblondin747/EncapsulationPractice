@@ -5,7 +5,7 @@ namespace MethodsExercise3
     class Program
     {
         public static void uno()
-        {
+        { 
             for (int i = 1000; i >= -1000; i--)
             {
                 Console.WriteLine(i);
@@ -18,29 +18,51 @@ namespace MethodsExercise3
                 Console.WriteLine(i);
             }
         }
-        public static string tres(int a, int b)
+        public static void tres()
         {
-            return (a == b) ? "equal" : "not equal";
+            int a;
+            int b;
+            Console.WriteLine("Enter an integer");
+            a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter another integer");
+            b = int.Parse(Console.ReadLine());
+            Console.WriteLine((a == b) ? $"Those integers are equal" : $"{a} and {b} are not equal");
         }
-        public static string cuatro(int a)
+        public static void cuatro()
         {
-            return (a % 2 == 0) ? "Even" : "Odd";
+            int a;
+            Console.WriteLine("Enter an integer");
+            a = int.Parse(Console.ReadLine());
+            Console.WriteLine((a % 2 == 0) ? $"{a} is Even" : $"{a} is Odd");
         }
-        public static string cinco(int a)
+        public static void cinco()
         {
-            return (a > 0) ? "Positive" : "Negative";
+            int a;
+            Console.WriteLine("Enter an integer");
+            a = int.Parse(Console.ReadLine());
+            Console.WriteLine((a > 0) ? $"{a} is Positive" : $"{a} is Negative");
         }
-        public static string seis(int a)
+        public static void seis()
         {
-            return (a >= 35) ? "You can vote" : "You can't vote";
+            int age;
+            Console.WriteLine("How many years old are you?");
+            age = int.Parse(Console.ReadLine());
+            Console.WriteLine((age >= 35) ? "You can vote" : "You can't vote");
         }
-        public static bool inRange(int a)
+        public static void inRange()
         {
-            return (a >= -10 && a <= 10) ? true : false;
+            int a;
+            Console.WriteLine("Enter an integer");
+            a = int.Parse(Console.ReadLine());
+            Console.WriteLine((a >= -10 && a <= 10) ? $"{a} is in the range of -10 and 10" : $"{a} is not in the range of -10 and 10");
         }
-        public static void multTable(int a)
+        public static void multTable()
         {
             int product;
+            int a;
+            Console.WriteLine("Enter an integer");
+            a = int.Parse(Console.ReadLine());
+
             for(int i = 1; i <= 12; i++)
             {
                 product = a * i;
@@ -49,14 +71,14 @@ namespace MethodsExercise3
         }
         static void Main(string[] args)
         {
-            //uno();
-            //dos();
-            //Console.WriteLine(tres(9,10));
-            //Console.WriteLine(cuatro(21));
-            //Console.WriteLine(cinco(30));
-            //Console.WriteLine(seis(35));
-            //Console.WriteLine(inRange(5));
-            //multTable(12);
+            uno();
+            dos();
+            tres();
+            cuatro();
+            cinco();
+            seis();
+            inRange();
+            multTable();
 
 
 
