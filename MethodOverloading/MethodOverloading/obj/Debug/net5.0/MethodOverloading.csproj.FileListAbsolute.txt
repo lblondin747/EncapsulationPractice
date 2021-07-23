@@ -1,0 +1,15 @@
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/bin/Debug/net5.0/MethodOverloading.deps.json
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/bin/Debug/net5.0/MethodOverloading.runtimeconfig.json
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/bin/Debug/net5.0/MethodOverloading.runtimeconfig.dev.json
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/bin/Debug/net5.0/MethodOverloading.dll
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/bin/Debug/net5.0/ref/MethodOverloading.dll
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/bin/Debug/net5.0/MethodOverloading.pdb
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/obj/Debug/net5.0/MethodOverloading.csproj.AssemblyReference.cache
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/obj/Debug/net5.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/obj/Debug/net5.0/MethodOverloading.AssemblyInfoInputs.cache
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/obj/Debug/net5.0/MethodOverloading.AssemblyInfo.cs
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/obj/Debug/net5.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/obj/Debug/net5.0/MethodOverloading.dll
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/obj/Debug/net5.0/ref/MethodOverloading.dll
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/obj/Debug/net5.0/MethodOverloading.pdb
+/Users/lukeblondin/repos/MethodOverloading/MethodOverloading/obj/Debug/net5.0/MethodOverloading.genruntimeconfig.cache
