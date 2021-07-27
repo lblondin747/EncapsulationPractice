@@ -1,0 +1,12 @@
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/bin/Debug/netcoreapp3.1/ClassesExercise.deps.json
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/bin/Debug/netcoreapp3.1/ClassesExercise.runtimeconfig.json
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/bin/Debug/netcoreapp3.1/ClassesExercise.runtimeconfig.dev.json
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/bin/Debug/netcoreapp3.1/ClassesExercise.dll
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/bin/Debug/netcoreapp3.1/ClassesExercise.pdb
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/obj/Debug/netcoreapp3.1/ClassesExercise.csproj.AssemblyReference.cache
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/obj/Debug/netcoreapp3.1/ClassesExercise.AssemblyInfoInputs.cache
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/obj/Debug/netcoreapp3.1/ClassesExercise.AssemblyInfo.cs
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/obj/Debug/netcoreapp3.1/ClassesExercise.csproj.CoreCompileInputs.cache
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/obj/Debug/netcoreapp3.1/ClassesExercise.dll
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/obj/Debug/netcoreapp3.1/ClassesExercise.pdb
+/Users/lukeblondin/repos/ClassesExercise/ClassesExercise/obj/Debug/netcoreapp3.1/ClassesExercise.genruntimeconfig.cache
