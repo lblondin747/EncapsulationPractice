@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{00CE27A3-BFF3-4699-AAC0-53951B86A4F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EncapsulationPractice/Program.cs">
+    <Files>
+      <File FileName="EncapsulationPractice/Program.cs" Line="16" Column="1" />
+      <File FileName="EncapsulationPractice/BankAccount.cs" Line="16" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EncapsulationPractice" expanded="True">
+            <Node name="EncapsulationPractice" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EncapsulationPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

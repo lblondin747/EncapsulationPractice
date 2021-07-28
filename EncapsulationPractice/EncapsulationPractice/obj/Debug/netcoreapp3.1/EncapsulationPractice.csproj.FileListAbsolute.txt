@@ -1,0 +1,12 @@
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/bin/Debug/netcoreapp3.1/EncapsulationPractice.deps.json
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/bin/Debug/netcoreapp3.1/EncapsulationPractice.runtimeconfig.json
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/bin/Debug/netcoreapp3.1/EncapsulationPractice.runtimeconfig.dev.json
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/bin/Debug/netcoreapp3.1/EncapsulationPractice.dll
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/bin/Debug/netcoreapp3.1/EncapsulationPractice.pdb
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/obj/Debug/netcoreapp3.1/EncapsulationPractice.csproj.AssemblyReference.cache
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/obj/Debug/netcoreapp3.1/EncapsulationPractice.AssemblyInfoInputs.cache
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/obj/Debug/netcoreapp3.1/EncapsulationPractice.AssemblyInfo.cs
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/obj/Debug/netcoreapp3.1/EncapsulationPractice.csproj.CoreCompileInputs.cache
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/obj/Debug/netcoreapp3.1/EncapsulationPractice.dll
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/obj/Debug/netcoreapp3.1/EncapsulationPractice.pdb
+/Users/lukeblondin/Projects/EncapsulationPractice/EncapsulationPractice/obj/Debug/netcoreapp3.1/EncapsulationPractice.genruntimeconfig.cache
