@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6B748B29-B636-4E9E-8CAB-06ABBB99A08B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TempConverter/TempConverter.cs">
+    <Files>
+      <File FileName="TempConverter/Program.cs" Line="1" Column="1" />
+      <File FileName="TempConverter/TempConverter.cs" Line="9" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TempConverter" expanded="True">
+            <Node name="TempConverter" expanded="True">
+              <Node name="TempConverter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TempConverter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
